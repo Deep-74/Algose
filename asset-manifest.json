@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Algose/static/css/main.0feff25c.chunk.css",
+    "main.js": "/Algose/static/js/main.8f93ca4d.chunk.js",
+    "main.js.map": "/Algose/static/js/main.8f93ca4d.chunk.js.map",
+    "runtime-main.js": "/Algose/static/js/runtime-main.bf7a6580.js",
+    "runtime-main.js.map": "/Algose/static/js/runtime-main.bf7a6580.js.map",
+    "static/js/2.00de3bbc.chunk.js": "/Algose/static/js/2.00de3bbc.chunk.js",
+    "static/js/2.00de3bbc.chunk.js.map": "/Algose/static/js/2.00de3bbc.chunk.js.map",
+    "index.html": "/Algose/index.html",
+    "precache-manifest.945efd68cf8dd29db440a208f5c97a61.js": "/Algose/precache-manifest.945efd68cf8dd29db440a208f5c97a61.js",
+    "service-worker.js": "/Algose/service-worker.js",
+    "static/css/main.0feff25c.chunk.css.map": "/Algose/static/css/main.0feff25c.chunk.css.map",
+    "static/js/2.00de3bbc.chunk.js.LICENSE.txt": "/Algose/static/js/2.00de3bbc.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/Algose/static/media/Anurati-Regular.ca8632f4.otf",
+    "static/media/analytics.bf570edf.svg": "/Algose/static/media/analytics.bf570edf.svg",
+    "static/media/bar-chart.svg": "/Algose/static/media/bar-chart.4c836d2b.svg",
+    "static/media/convex.svg": "/Algose/static/media/convex.88bbe4ee.svg",
+    "static/media/convex_instruct.gif": "/Algose/static/media/convex_instruct.cfd6557e.gif",
+    "static/media/github.67910a24.svg": "/Algose/static/media/github.67910a24.svg",
+    "static/media/graph.svg": "/Algose/static/media/graph.bd3c0250.svg",
+    "static/media/heading_logo.png": "/Algose/static/media/heading_logo.eb2a6397.png",
+    "static/media/linkedin.afc106ad.svg": "/Algose/static/media/linkedin.afc106ad.svg",
+    "static/media/pathfinder.gif": "/Algose/static/media/pathfinder.67aa2ccb.gif",
+    "static/media/pathfinding_front.svg": "/Algose/static/media/pathfinding_front.82c79bd8.svg",
+    "static/media/Pathfinding.css": "/Algose/static/media/space-ship.4db25bca.svg",
+    "static/media/sorting.png": "/Algose/static/media/sorting.24f61809.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf7a6580.js",
+    "static/js/2.00de3bbc.chunk.js",
+    "static/css/main.0feff25c.chunk.css",
+    "static/js/main.8f93ca4d.chunk.js"
+  ]
+}
