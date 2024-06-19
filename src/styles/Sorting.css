@@ -18,7 +18,7 @@
 .bar-min{
     background-color: red;
 }
-.bars{
+/* .bars{
     
     /* display: -webkit-box;
     display: -webkit-flex;
@@ -35,4 +35,4 @@
     margin-right: -50%;
     transform: translate(-50%, -50%);
     z-index: -1; */
-}
+} */
